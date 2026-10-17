@@ -1,0 +1,262 @@
+{
+  "hero": {
+    "eyebrow": "Creative Design & Branding Studio — New Delhi",
+    "title": "We craft brands that pull the world into orbit.",
+    "subtitle": "Branding, websites, 3D CGI ads and motion — VarahaCraft designs work that gets noticed, remembered and shared.",
+    "primaryCta": "Start a Project",
+    "secondaryCta": "See Our Work"
+  },
+  "stats": [
+    {
+      "value": "120+",
+      "label": "Projects delivered"
+    },
+    {
+      "value": "50+",
+      "label": "Brands & clients"
+    },
+    {
+      "value": "6",
+      "label": "Creative services"
+    },
+    {
+      "value": "100%",
+      "label": "In-house production"
+    }
+  ],
+  "services": [
+    {
+      "title": "Branding & Identity",
+      "description": "Logo systems, brand strategy and complete visual identities that make a business unforgettable.",
+      "tags": [
+        "Logo Design",
+        "Brand Strategy",
+        "Visual Identity",
+        "Brand Guidelines"
+      ]
+    },
+    {
+      "title": "Graphic Design",
+      "description": "Scroll-stopping creatives for social media, campaigns, packaging and everything in between.",
+      "tags": [
+        "Social Media Creatives",
+        "Packaging",
+        "Brochures",
+        "Campaign Design"
+      ]
+    },
+    {
+      "title": "Website Design",
+      "description": "Fast, modern, conversion-focused websites designed to turn visitors into enquiries.",
+      "tags": [
+        "Business Websites",
+        "Landing Pages",
+        "E-commerce",
+        "UI / UX"
+      ]
+    },
+    {
+      "title": "3D CGI Advertising",
+      "description": "Photorealistic 3D product films and CGI ads that make products look larger than life.",
+      "tags": [
+        "Product Films",
+        "3D Animation",
+        "CGI Ads",
+        "Visualisation"
+      ]
+    },
+    {
+      "title": "Motion Graphics",
+      "description": "Animated stories, reels and explainers that hold attention till the very last frame.",
+      "tags": [
+        "Reels & Shorts",
+        "Explainer Videos",
+        "Logo Animation",
+        "Promo Videos"
+      ]
+    },
+    {
+      "title": "Print & Installation",
+      "description": "Exhibition stalls, hoardings and print that carry the brand into the physical world.",
+      "tags": [
+        "Exhibition Stalls",
+        "Hoardings",
+        "Signage",
+        "Print Collateral"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Evento Craft",
+      "category": "Websites",
+      "description": "Website for an event management and exhibition stall design company — bold showcase of events, stalls and brand experiences.",
+      "mediaType": "image",
+      "media": "assets/work/eventocraft.jpg",
+      "poster": "",
+      "link": "https://eventocraft.com",
+      "featured": true
+    },
+    {
+      "title": "The Expo Maker",
+      "category": "Websites",
+      "description": "Website for an exhibition stall design & fabrication studio, built to win exhibitor enquiries.",
+      "mediaType": "image",
+      "media": "assets/work/theexpomaker.jpg",
+      "poster": "",
+      "link": "https://theexpomaker.com",
+      "featured": true
+    },
+    {
+      "title": "Bollywood Aero City Farm",
+      "category": "Websites",
+      "description": "Luxury farm estate website near Jewar Airport — cinematic visuals with a premium booking-enquiry flow.",
+      "mediaType": "image",
+      "media": "assets/work/bollywoodaerocityfarm.jpg",
+      "poster": "",
+      "link": "https://bollywoodaerocityfarm.in",
+      "featured": true
+    },
+    {
+      "title": "Luxotic Infrastructure",
+      "category": "Websites",
+      "description": "Premium real-estate website for LUXOTIC Infrastructure — dark, elegant and built for high-value leads.",
+      "mediaType": "image",
+      "media": "assets/work/luxoticinfrastructure.jpg",
+      "poster": "",
+      "link": "https://luxoticinfrastructure.com",
+      "featured": false
+    },
+    {
+      "title": "Skyline Aero Homes",
+      "category": "Websites",
+      "description": "Residential plots near Jewar Airport — location-led landing experience with strong call-to-action flow.",
+      "mediaType": "image",
+      "media": "assets/work/skylineaerohomes.jpg",
+      "poster": "",
+      "link": "https://skylineaerohomes.com",
+      "featured": false
+    },
+    {
+      "title": "Greenzone Nature Ayurveda",
+      "category": "Websites",
+      "description": "Ayurvedic e-commerce website — natural, trust-led design with a full online store.",
+      "mediaType": "image",
+      "media": "assets/work/greenzonenatureayurveda.jpg",
+      "poster": "",
+      "link": "https://greenzonenatureayurveda.co.in",
+      "featured": true
+    },
+    {
+      "title": "UGC Ad — Skincare Launch",
+      "category": "UGC Ads",
+      "description": "Creator-style UGC ad film for a skincare product launch, made for Meta ads.",
+      "mediaType": "video",
+      "media": "assets/work/ugc-skincare.mp4",
+      "poster": "assets/work/ugc-skincare.jpg",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "UGC Ad — Ayurveda Brand",
+      "category": "UGC Ads",
+      "description": "Talking-head UGC video ad with hooks, demo and clear call-to-action.",
+      "mediaType": "video",
+      "media": "assets/work/ugc-ayurveda.mp4",
+      "poster": "assets/work/ugc-ayurveda.jpg",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "UGC Ad — Fashion Reel",
+      "category": "UGC Ads",
+      "description": "Fast-cut UGC reel for a fashion label, styled for Instagram and Meta placements.",
+      "mediaType": "video",
+      "media": "assets/work/ugc-fashion.mp4",
+      "poster": "assets/work/ugc-fashion.jpg",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "3D CGI Product Film",
+      "category": "3D CGI",
+      "description": "Photorealistic CGI product film with dramatic lighting and liquid simulations.",
+      "mediaType": "video",
+      "media": "assets/work/cgi-product-film.mp4",
+      "poster": "assets/work/cgi-product-film.jpg",
+      "link": "",
+      "featured": true
+    },
+    {
+      "title": "Social Media Creative Pack",
+      "category": "Graphics",
+      "description": "A complete month of social media creatives — posts, stories and campaign graphics.",
+      "mediaType": "image",
+      "media": "assets/work/social-creative-pack.jpg",
+      "poster": "",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "Brand Identity Suite",
+      "category": "Graphics",
+      "description": "Logo, colour system, typography and brand guidelines delivered as one identity suite.",
+      "mediaType": "image",
+      "media": "assets/work/brand-identity-suite.jpg",
+      "poster": "",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "Motion Promo — App Launch",
+      "category": "Motion Graphics",
+      "description": "Kinetic-type motion promo announcing a new app launch across social platforms.",
+      "mediaType": "video",
+      "media": "assets/work/motion-app-launch.mp4",
+      "poster": "assets/work/motion-app-launch.jpg",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "Exhibition Stall Design",
+      "category": "Print & Installation",
+      "description": "End-to-end exhibition stall design and on-site installation for a trade expo.",
+      "mediaType": "image",
+      "media": "assets/work/exhibition-stall.jpg",
+      "poster": "",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "Packaging Design Range",
+      "category": "Graphics",
+      "description": "Shelf-ready packaging design range with print-ready artwork and 3D mockups.",
+      "mediaType": "image",
+      "media": "assets/work/packaging-range.jpg",
+      "poster": "",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "Hoarding & Outdoor Campaign",
+      "category": "Print & Installation",
+      "description": "Large-format hoardings and outdoor creatives for a city-wide campaign.",
+      "mediaType": "image",
+      "media": "assets/work/outdoor-campaign.jpg",
+      "poster": "",
+      "link": "",
+      "featured": false
+    }
+  ],
+  "contact": {
+    "phone": "+91 99111 39009",
+    "whatsapp": "919911139009",
+    "email": "info@varahacraft.in",
+    "address": "VarahaCraft Studio, New Delhi, Delhi 110001, India",
+    "hours": "Mon – Sat · 10:00 AM – 7:00 PM"
+  },
+  "seo": {
+    "title": "VarahaCraft — Creative Design & Branding Studio in New Delhi",
+    "description": "VarahaCraft is a creative design & branding studio in New Delhi: branding, graphic design, website design, 3D CGI advertising, motion graphics and print & installation."
+  }
+}
